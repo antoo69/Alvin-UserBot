@@ -56,7 +56,7 @@ CONFIG_CHECK = os.environ.get(
 
 if CONFIG_CHECK:
     LOGS.info(
-        "Please remove the line mentioned in the first hashtag from the config.env file"
+        "Please remove the line mentioned in the first hashtag from the config.env file raaaawr"
     )
     quit(1)
 
